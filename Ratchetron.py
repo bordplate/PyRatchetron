@@ -2,9 +2,6 @@ import socket
 import time
 import sys
 
-from enum import Enum
-from typing import Union
-
 
 PS3MAPI_PORT        = 9671
 PS3MAPI_BUF_SIZE    = 1024
